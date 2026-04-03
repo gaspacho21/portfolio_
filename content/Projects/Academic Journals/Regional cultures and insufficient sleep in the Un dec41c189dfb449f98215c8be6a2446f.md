@@ -1,0 +1,3 @@
+# Regional cultures and insufficient sleep in the United States | Journal of Activity, Sedentary and Sleep Behaviors
+
+[https://link.springer.com/article/10.1186/s44167-023-00043-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240104&utm_content=10.1186/s44167-023-00043-3](https://link.springer.com/article/10.1186/s44167-023-00043-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240104&utm_content=10.1186/s44167-023-00043-3)

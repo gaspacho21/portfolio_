@@ -1,3 +1,48 @@
-@use "./base.scss";
+// quartz/styles/custom.scss
 
-// put your custom CSS here!
+:root {
+  /* The Western-Ivy Palette */
+  --light: #fdfaf5;          // Vintage Cream Paper (Background)
+  --lightgray: #e5e0d0;      // Warm Sand (Borders)
+  --gray: #7b7568;           // Muted Earth (Meta text)
+  
+  /* Primary Identity Colors */
+  --darkgray: #283618;       // Deep Forest Green (Main Headers & Text)
+  --dark: #1b2613;           // "Blackened" Green (Bold text)
+  --secondary: #606c38;      // Olive Green (Links and Interactive elements)
+  --tertiary: #bc6c25;       // Burnt Orange/Rust (Buttons, Highlights, Hover states)
+  
+  /* Typography */
+  --headerFont: "Playfair Display", serif;
+  --bodyFont: "Inter", sans-serif;
+}
+
+/* Enhancing Map Visuals */
+img {
+  border: 1px solid var(--lightgray);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(40, 54, 24, 0.15); // Subtle green-tinted shadow
+  margin-top: 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Styling the Interactive Graph to match your theme */
+.graph {
+  --graph-node: var(--secondary);
+  --graph-edge: var(--lightgray);
+  --graph-text: var(--darkgray);
+}
+
+/* Custom link styling for that "Ivy" feel */
+a {
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: var(--tertiary);
+    border-bottom: 1px solid var(--tertiary);
+  }
+}

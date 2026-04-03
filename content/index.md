@@ -9,9 +9,9 @@ Specializing in high-impact data visualization and the intersection of cultural 
 
 ---
 
-## 📍 Featured Project
+{## Projects}
 ### [The Geography of U.S. Gun Violence](projects/gun-violence)
-*Lead Cartographer for Nationhood Lab & Politico Magazine*
+*Cartographer and Data Visualization for Nationhood Lab*
 
 ![[assets/Overall_nation.jpg]]
 
@@ -23,13 +23,14 @@ Specializing in high-impact data visualization and the intersection of cultural 
 
 ---
 
-## 🛠️ Expertise
-- **Mapping:** Esri Ecosystem (Pro, Online, StoryMaps), Mapbox, QGIS.
-- **Data:** Python, SQL, Census/CDC Data Analysis.
-- **Design:** Adobe Creative Suite, Fujifilm X-Pro3 Photography.
+---
+
+## 🛠️ Technical Stack
+- **GIS:** Esri (Pro, Online, StoryMaps), QGIS.
+- **Analysis:** Python, basic SQL, Spatial Analysis.
+- **Creative:** Fujifilm X-Pro3 Photography.
 
 ---
 
-## 📂 Other Projects
-- [[projects/civil-rights|Fredericksburg Civil Rights StoryMap]]
-- [[projects/nations-apart|Nations Apart Cartography]]
+## 📬 Connect
+[LinkedIn](https://www.linkedin.com/in/john-liberty/) | [GitHub](https://github.com/gaspacho21)
